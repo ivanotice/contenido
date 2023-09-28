@@ -1,6 +1,7 @@
 // Crear un objeto que simule la base de datos
 const baseDeDatos = {
   contenidos: [
+// Peliculas    
     {
       nombre: "Elemental",
       tipo: "Pelicula",
@@ -209,5 +210,19 @@ const baseDeDatos = {
       enlace: "go:0026",
       año: 2023
     },
+
+// Series
+//Ejeplo:
+// {
+//  nombre: "Series name",
+//     tipo: "Serie",
+//     categoria: "categoria",
+//     imagen: "image ur",
+//     enlace: "go:enlace",
+//     año: año
+//   },
+
+
+        
   ]
 };
