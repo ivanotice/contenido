@@ -1,7 +1,6 @@
-// Crear un objeto que simule la base de datos
 const baseDeDatos = {
   contenidos: [
-// Peliculas    
+    // Películas     
     {
       nombre: "Elemental",
       tipo: "Pelicula",
