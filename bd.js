@@ -1,6 +1,5 @@
-const baseDeDatos = {
-  contenidos: [
-    // Películas     
+// Array de películas
+const baseDeDatos = [    
     {
       nombre: "Elemental",
       tipo: "Pelicula",
@@ -210,18 +209,4 @@ const baseDeDatos = {
       año: 2023
     },
 
-// Series
-//Ejeplo:
-// {
-//  nombre: "Series name",
-//     tipo: "Serie",
-//     categoria: "categoria",
-//     imagen: "image ur",
-//     enlace: "go:enlace",
-//     año: año
-//   },
-
-
-        
-  ]
-};
+  ];
