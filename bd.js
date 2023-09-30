@@ -210,3 +210,6 @@ const baseDeDatos = [
     },
 
   ];
+
+// Imprimir los contenidos de la base de datos
+console.log(baseDeDatos.contenidos);
